@@ -5,6 +5,7 @@ Some facts about me
   <h3>Junior Data analyst and python backend developer</h3>
 </div> 
 <div id = "socials" align = "center">
+  <img src = "https://giphy.com/gifs/vzO0Vc8b2VBLi" />
   <a href = "https://t.me/Co_stan">
     <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram"/>
   </a>
