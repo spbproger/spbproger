@@ -4,7 +4,7 @@ Some facts about me
   <h1>Hi there! It's Stan!</h1>
   <h3>Junior Data analyst and python backend developer</h3>
 </div> 
-<div>
+<div align = "center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" /> 
 </div>
 
