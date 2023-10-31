@@ -4,8 +4,11 @@ Some facts about me
   <h1>Hi there! It's Stan!</h1>
   <h3>Junior Data analyst and python backend developer</h3>
 </div> 
+<div>
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" /> 
+</div>
+
 <div id = "socials" align = "center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />  
   <a href = "https://t.me/Co_stan">
     <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram"/>
   </a>
