@@ -1,5 +1,4 @@
-# AboutMe
-Some facts about me
+# Some facts about me
 <div id = "header" align = "center">
   <h1>Hi there! It's Stan!</h1>
   <h3>Junior Data analyst and python backend developer</h3>
@@ -15,12 +14,12 @@ Some facts about me
 </div>
 
 
-### Обо мне 
+## AboutMe
 
 -🔭 improving the skills of pandas, selenium an pyqt 
 
 
-### Используемый стек
+### Stack
 
 <div id = "icons" align = "center">   
   
@@ -37,7 +36,7 @@ Some facts about me
   <img src="https://komarev.com/ghpvc/?username=spbproger&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Моя статистика
+### Statistics
 
 <div id = "stat" align = "center">
   <p>
@@ -46,7 +45,7 @@ Some facts about me
   </p>
 </div>
 
-### Образование
+### Education
 
 -😄 1T data courses: Data analyst
 -😄 SkyPro: python backend
