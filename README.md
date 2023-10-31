@@ -5,13 +5,12 @@ Some facts about me
   <h3>Junior Data analyst and python backend developer</h3>
 </div> 
 <div id = "socials" align = "center">
-  <img src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen (https://giphy.com/gifs/vzO0Vc8b2VBLi) />  
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />  
   <a href = "https://t.me/Co_stan">
     <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram"/>
   </a>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vzO0Vc8b2VBLi">via GIPHY</a></p>
 
 ### Обо мне 
 
