@@ -33,7 +33,9 @@ Some facts about me
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     
 </div>
-
+<div id = "followers" align = "center">
+  <img src="https://komarev.com/ghpvc/?username=spbproger&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### Моя статистика
 
