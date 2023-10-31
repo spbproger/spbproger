@@ -5,7 +5,7 @@ Some facts about me
   <h3>Junior Data analyst and python backend developer</h3>
 </div> 
 <div id = "socials" align = "center">
-  <iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <img src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen />  
   <a href = "https://t.me/Co_stan">
     <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram"/>
   </a>
