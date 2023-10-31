@@ -25,7 +25,7 @@ Some facts about me
 <div id = "icons" align = "center">   
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PyQt](https://img.shields.io/badge/pyqt-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PyQt](https://img.shields.io/badge/pyqt-3670A0?style=for-the-badge&logo=pyqt&logoColor=ffdd54)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
